@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(231, 24, 145);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  position: relative;
+}
+
+.img1 {
+  position: absolute;
+  right: 80px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  max-width: 50%;
+  font-family: 'Sacramento', cursive;
+  position: absolute;
+  left: 100px;
+  top: 150px;
+  font-size: 50px;
+  color: white;
+}
